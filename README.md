@@ -1,5 +1,5 @@
 # SOTC
-##SOTC (Squid Openvpn Traffic Control) Server
+## SOTC (Squid Openvpn Traffic Control) Server
 
 Make your own plans, tarrif. 
 
