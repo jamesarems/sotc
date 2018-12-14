@@ -3,4 +3,4 @@
 
 Make your own plans, tarrif. 
 
-## Advance level update coming soon
+### [DISCONTINUED] Follow https://github.com/jamesarems/aovpn repository.
